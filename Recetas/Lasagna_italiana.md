@@ -33,3 +33,9 @@
 
 La lasagna tiene raíces en la antigua Roma, donde se preparaban platos en capas llamados *lasanum* (recipiente). La versión moderna, con salsa boloñesa y bechamel, se originó en la región de Emilia-Romaña, Italia, particularmente en Bolonia, en la Edad Media. La receta se perfeccionó en el Renacimiento, cuando el tomate llegó a Europa. Hoy, la lasagna es un símbolo de la cocina italiana, con variaciones en todo el mundo, pero la boloñesa sigue siendo la más clásica.
 
+## Consejos Adicionales
+
+- *Pasta fresca*: Si usas pasta fresca, no necesitas precocerla; solo asegúrate de que haya suficiente salsa para hidratarla.
+- *Sabor intenso*: Deja reposar la boloñesa un día en el refrigerador para que los sabores se concentren.
+- *Variación*: Prueba una lasagna vegetariana con espinacas, calabacín y ricotta.
+- *Maridaje*: Acompaña con un vino tinto como Chianti y una ensalada verde.
