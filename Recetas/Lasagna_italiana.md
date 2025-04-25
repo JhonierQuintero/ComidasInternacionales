@@ -29,3 +29,7 @@
 </p>
 
 
+## Historia de la Receta
+
+La lasagna tiene raíces en la antigua Roma, donde se preparaban platos en capas llamados *lasanum* (recipiente). La versión moderna, con salsa boloñesa y bechamel, se originó en la región de Emilia-Romaña, Italia, particularmente en Bolonia, en la Edad Media. La receta se perfeccionó en el Renacimiento, cuando el tomate llegó a Europa. Hoy, la lasagna es un símbolo de la cocina italiana, con variaciones en todo el mundo, pero la boloñesa sigue siendo la más clásica.
+
