@@ -22,3 +22,10 @@
 4. *Hornear*: Cubre con papel aluminio y hornea a 180°C por 25 minutos. Retira el aluminio y hornea 10 minutos más para gratinar.
 5. *Servir*: Deja reposar 10 minutos antes de cortar y servir.
 
+## Imagen
+
+<p align="center">
+  <img width="500" src="https://i.postimg.cc/sfBt5nnX/lasagna.jpg">
+</p>
+
+
