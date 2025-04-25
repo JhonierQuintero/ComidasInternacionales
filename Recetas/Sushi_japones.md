@@ -21,3 +21,10 @@
 4. *Hacer maki*: Coloca una hoja de nori sobre la esterilla. Extiende una capa fina de arroz sobre el nori, dejando 2 cm libres en un borde. Añade una fila de salmón, aguacate y pepino. Enrolla firmemente usando la esterilla y corta en 6-8 piezas.
 5. *Servir*: Coloca el nigiri y el maki en un plato. Acompaña con salsa de soya, wasabi y jengibre.
 
+## Imagen
+
+<p align="center">
+  <img width="500" src="https://i.postimg.cc/wTj9K5FY/sushi.jpg">
+</p>
+
+
