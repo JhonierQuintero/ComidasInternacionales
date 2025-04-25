@@ -28,3 +28,7 @@
 </p>
 
 
+## Historia de la Receta
+
+Los tacos al pastor tienen sus raíces en la influencia libanesa en México durante el siglo XX. Inmigrantes del Medio Oriente introdujeron el concepto del "shawarma" (carne asada en un trompo vertical). Los mexicanos adaptaron esta técnica usando cerdo y adobos con chiles y especias locales, como el guajillo y el achiote, y añadieron piña para un toque dulce. El platillo se popularizó en la Ciudad de México y hoy es un ícono de la comida callejera mexicana, servido en taquerías de todo el mundo.
+
