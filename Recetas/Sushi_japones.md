@@ -32,3 +32,9 @@
 
 El sushi tiene su origen en Japón, pero su precursor, el *narezushi, data del siglo VIII en el sudeste asiático, donde el pescado se fermentaba con arroz para conservarlo. En el período Edo (siglo XVII), los japoneses desarrollaron el **haya-zushi*, usando vinagre para acelerar el proceso y mejorar el sabor. El nigiri (arroz con pescado crudo) y el maki (rollos) surgieron en Tokio en el siglo XIX, popularizados por puestos callejeros. Hoy, el sushi es un arte culinario global, con énfasis en la frescura y la presentación.
 
+## Consejos Adicionales
+
+- *Pescado fresco*: Asegúrate de usar pescado de calidad sushi (congelado previamente para eliminar parásitos).
+- *Cuchillo afilado*: Usa un cuchillo bien afilado y humedécelo para cortar los rollos sin aplastarlos.
+- *Variación*: Prueba sushi vegetariano con zanahoria, espárragos o mango.
+- *Presentación*: Sirve en una bandeja de madera o cerámica con palillos para una experiencia auténtica.
