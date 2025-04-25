@@ -33,3 +33,9 @@
 
 El pollo tikka masala, aunque asociado con la India, tiene un origen debatido. Se cree que fue creado en el Reino Unido en la década de 1960 por chefs indios o bangladesíes que adaptaron el pollo tikka (pollo marinado y asado) añadiendo una salsa cremosa de tomate para satisfacer el gusto británico. La receta combina especias tradicionales indias (como cúrcuma y garam masala) con una textura suave, convirtiéndola en uno de los curries más populares del mundo.
 
+## Consejos Adicionales
+
+- *Especias frescas*: Tosta las especias en seco antes de usarlas para intensificar su sabor.
+- *Ajuste de picante*: Reduce la cantidad de pasta de curry o usa yogur extra para un sabor más suave.
+- *Variación*: Sustituye el pollo por paneer (queso indio) o garbanzos para una versión vegetariana.
+- *Acompañamiento*: Sirve con naan o paratha para absorber la salsa.
