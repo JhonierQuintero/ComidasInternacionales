@@ -21,3 +21,10 @@
 4. *Calentar las tortillas*: En un comal o sartén, calienta las tortillas de maíz por ambos lados hasta que estén flexibles.
 5. *Armar los tacos*: Coloca la carne en las tortillas, añade trozos de piña asada, cebolla picada, cilantro y un chorrito de limón. Sirve con salsa al gusto.
 
+## Imagen
+
+<p align="center">
+  <img width="500" src="https://i.postimg.cc/t4nD7fDd/tacos.jpg">
+</p>
+
+
