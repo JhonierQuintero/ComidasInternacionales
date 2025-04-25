@@ -9,10 +9,10 @@ BIENVENIDO al lugar donde se guardan recetas de comida de todas partes del mundo
 
 ## RECETAS
 
-- [Tacos Mexicanos](Recetas/Tacos_mexicanos)
-- [Sushi Japones](Recetas/Sushi_japones)
-- [Lasagna Italiana](Recetas/Lasagna_italiana)
-- [Curry Indio](Recetas/Curry_indio)
+- [Tacos Mexicanos](Recetas/Tacos_mexicanos.md)
+- [Sushi Japones](Recetas/Sushi_japones.md)
+- [Lasagna Italiana](Recetas/Lasagna_italiana.md)
+- [Curry Indio](Recetas/Curry_indio.md)
 
 ## Notas Adicionales
 
