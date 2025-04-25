@@ -13,3 +13,11 @@
 - Cebolla, cilantro y limón (para acompañar).
 - Salsa de tu elección (ej. salsa verde o roja).
 
+## Pasos
+
+1. *Preparar el adobo*: Remoja los chiles en agua caliente por 15 minutos. Licúa los chiles, cebolla, ajo, jugo de piña, vinagre, orégano, comino y una pizca de sal hasta obtener una pasta suave.
+2. *Marinar la carne*: Cubre la carne de cerdo con el adobo y déjala reposar en el refrigerador por al menos 4 horas (idealmente toda la noche).
+3. *Cocinar la carne*: Corta la carne en trozos pequeños. En una sartén o parrilla caliente, cocina la carne con un poco de aceite por 8-10 minutos, hasta que esté dorada. Añade rodajas de piña y ásalas ligeramente.
+4. *Calentar las tortillas*: En un comal o sartén, calienta las tortillas de maíz por ambos lados hasta que estén flexibles.
+5. *Armar los tacos*: Coloca la carne en las tortillas, añade trozos de piña asada, cebolla picada, cilantro y un chorrito de limón. Sirve con salsa al gusto.
+
