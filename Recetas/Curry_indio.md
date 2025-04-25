@@ -22,3 +22,10 @@
 4. *Combinar*: Regresa el pollo a la sartén, añade garam masala y cocina 5 minutos más. Ajusta sal.
 5. *Servir*: Sirve el curry sobre arroz basmati, decorado con cilantro fresco.
 
+## Imagen
+
+<p align="center">
+  <img width="500" src="https://i.postimg.cc/L8skZWTQ/curry.jpg">
+</p>
+
+
