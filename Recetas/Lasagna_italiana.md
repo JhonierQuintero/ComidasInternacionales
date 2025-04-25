@@ -14,3 +14,11 @@
 - 100 g de queso parmesano rallado.
 - Aceite de oliva, sal y pimienta.
 
+## Pasos
+
+1. *Preparar la boloñesa*: Sofríe la cebolla, ajo y zanahoria en aceite de oliva. Añade la carne molida y cocina hasta que se dore. Incorpora la pasta de tomate, el tomate triturado, el vino, orégano, albahaca, sal y pimienta. Cocina a fuego bajo por 30 minutos.
+2. *Hacer la bechamel*: Derrite la mantequilla, añade la harina y mezcla por 2 minutos. Incorpora la leche poco a poco, removiendo hasta obtener una salsa espesa. Sazona con sal y pimienta.
+3. *Armar la lasagna*: En un molde para horno, coloca una capa de boloñesa, luego láminas de pasta, una capa de bechamel y mozzarella. Repite 3-4 capas, terminando con bechamel y parmesano.
+4. *Hornear*: Cubre con papel aluminio y hornea a 180°C por 25 minutos. Retira el aluminio y hornea 10 minutos más para gratinar.
+5. *Servir*: Deja reposar 10 minutos antes de cortar y servir.
+
